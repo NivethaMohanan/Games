@@ -8,7 +8,7 @@ public class PlayGame {
 
 	/*
 	 * Takes user gesture via keyboard as one of the following values: fist, openhand, twofingers
-	 * and displays outcome of the game instance
+	 * and displays outcome of the game instances
 	 */
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
