@@ -12,6 +12,7 @@ public class PlayGame {
 	 */
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
+		System.out.println(scanner);
 		PaperRockScissor game = new PaperRockScissor();
 		while (true) {
 			System.out.println("Show your gesture:(fist, openhand, twofingers):");
